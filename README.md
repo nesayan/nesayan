@@ -19,11 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 You can also check out my portfolio at [https://khushboogoel01.github.io/](https://khushboogoel01.github.io/)
 
-- 📫 How to reach me **talktokhushboogoel@gmail.com**
-
-- ⚡ Fun fact **I think I am funny XD**
-
-
 
 
 

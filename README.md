@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **ML**
 
-- 📫 How to reach me **nesayan.saha@gmail.com**
+- 📫 How to reach me **sahasayan100@gmail.com**
 
 - ⚡ Fun fact **Why need fact, when the fun is me :P**
 

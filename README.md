@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <h1 align="center">Hi 👋, I'm Sayan Saha</h1>
-<h3 align="center">A passionate software developer from Kolkata,India. In love with Machine Learning and Networking.</h3>
+<h3 align="center">A boy, just trying to sort things out ;-)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nesayan&label=Profile%20views&color=0e75b6&style=flat" alt="nesayan" /> </p>
 

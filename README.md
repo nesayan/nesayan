@@ -4,7 +4,7 @@ nesayan/nesayan is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <h1 align="center">Hi 👋, I'm Sayan Saha</h1>
 <h3 align="center">A boy, just trying to sort things out ;-)</h3>

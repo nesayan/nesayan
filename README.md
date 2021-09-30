@@ -34,6 +34,10 @@ You can click the Preview link to take a look at your changes.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Making Your Own Chatroom: Sockets in Python, JavaScript & HTML](https://medium.com/geekculture/making-your-own-chatroom-sockets-in-python-javascript-html-ac14c2870064?source=rss-56a0e8c463f6------2)
+- [Machine Learning Basics: Logistic Regression (Classification)](https://nesayan-saha.medium.com/machine-learning-basics-logistic-regression-classification-254a8342d1b7?source=rss-56a0e8c463f6------2)
+- [Machine Learning Basics: Polynomial Regression](https://nesayan-saha.medium.com/machine-learning-basics-polynomial-regression-7a8ec2d00be9?source=rss-56a0e8c463f6------2)
+- [Machine Learning Basics : Our first model (Linear Regression)](https://nesayan-saha.medium.com/machine-learning-basics-our-first-model-linear-regression-4348da841f9?source=rss-56a0e8c463f6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

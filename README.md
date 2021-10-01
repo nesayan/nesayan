@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **Why need fact, when the fun is me :P**
 
-- 👨‍💻 You can also check out my portfolio at [https://khushboogoel01.github.io/](https://khushboogoel01.github.io/)
+<!--- - 👨‍💻 You can also check out my portfolio at [https://khushboogoel01.github.io/](https://khushboogoel01.github.io/) --->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
